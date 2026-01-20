@@ -5,5 +5,5 @@
     <BuildType Name="Release" />
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="MT4.vcxproj" />
+  <Project Path="MT4.vcxproj" Id="bb560e4a-5ac3-450a-80a4-7dba51095b51" />
 </Solution>
